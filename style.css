@@ -308,6 +308,10 @@ ul {
   font-weight: normal;
 }
 
+.contrast {
+  margin-bottom: 50px;
+}
+
 .contrast__swiper {
   height: 450px;
 }

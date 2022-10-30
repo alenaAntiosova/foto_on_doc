@@ -38,6 +38,10 @@
 .swiper-pointer-events.swiper-vertical {
   touch-action: pan-x;
 }
+
+.contrast__swiper {
+  height: 450px;
+}
 .swiper-slide {
   flex-shrink: 0;
   width: 100%;

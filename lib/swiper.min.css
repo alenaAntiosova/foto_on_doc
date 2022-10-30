@@ -42,6 +42,7 @@
 .contrast__swiper {
   height: 450px;
 }
+
 .swiper-slide {
   flex-shrink: 0;
   width: 100%;
@@ -640,18 +641,18 @@ button.swiper-pagination-bullet {
   backface-visibility: hidden;
   overflow: hidden;
 }
-.foto__swiper {
+.contrast__swiper {
   height: 450px;
 }
 
 @media (max-width: 620px) {
-  .foto__swiper {
+  .contrast__swiper {
     height: 400px;
   }
 }
 
 @media (max-width: 420px) {
-  .foto__swiper {
+  .contrast__swiper {
     height: 320px;
   }
 }
